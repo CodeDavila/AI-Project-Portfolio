@@ -1,4 +1,4 @@
-### Convolutional Neural Networks (CNN)
+# Convolutional Neural Networks (CNN)
 
 **Convolutional Neural Networks (CNN)** are a type of neural network particularly well-suited for processing grid-like data, such as images. CNNs use convolutional layers to automatically learn spatial hierarchies of features from the input data.
 
