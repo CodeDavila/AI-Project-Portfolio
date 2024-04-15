@@ -1,4 +1,4 @@
-### Artificial Neural Networks (ANN)
+# Artificial Neural Networks (ANN)
 
 **Artificial Neural Networks (ANN)** are a class of machine learning models inspired by the structure and function of the human brain. ANN consists of interconnected nodes organized in layers, with each node applying a transformation to its inputs.
 
