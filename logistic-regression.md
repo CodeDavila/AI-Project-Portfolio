@@ -9,24 +9,24 @@
 
    $\ g(z) = \frac{1}{1 + e^{-z}} \$
 
-   Where \( z \) is a linear combination of the input features and model parameters.
+   Where $\( z \)$ is a linear combination of the input features and model parameters.
 
 2. **Hypothesis Function**:
    The hypothesis function of logistic regression is defined as:
 
-   \[ h_\theta(x) = g(\theta^Tx) \]
+   $\ h_\theta(x) = g(\theta^Tx) \$
 
    Where:
-   - \( h_\theta(x) \) is the predicted probability that the instance \( x \) belongs to the positive class.
-   - \( \theta \) is the vector of model parameters (weights).
-   - \( x \) is the vector of input features.
-   - \( g \) is the sigmoid function.
+   - $\( h_\theta(x) \)$ is the predicted probability that the instance \( x \) belongs to the positive class.
+   - $\( \theta \)$ is the vector of model parameters (weights).
+   - $\( x \)$ is the vector of input features.
+   - $\( g \)$ is the sigmoid function.
 
 3. **Decision Boundary**:
    Logistic regression separates the input space into two regions using a decision boundary. This boundary is determined by the value of the sigmoid function. If the predicted probability is greater than or equal to 0.5, the instance is classified as belonging to the positive class; otherwise, it is classified as belonging to the negative class.
 
 4. **Model Training**:
-   The parameters \( \theta \) of the logistic regression model are learned from the training data using optimization techniques such as gradient descent or Newton's method. The objective is to maximize the likelihood of the observed labels given the input features.
+   The parameters $\( \theta \)$ of the logistic regression model are learned from the training data using optimization techniques such as gradient descent or Newton's method. The objective is to maximize the likelihood of the observed labels given the input features.
 
 #### Applications of Logistic Regression:
 
