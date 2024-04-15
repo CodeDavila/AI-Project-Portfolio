@@ -11,7 +11,7 @@
    SVM can handle non-linear decision boundaries by mapping the input features into a higher-dimensional space using kernel functions. This allows SVM to capture complex relationships between features without explicitly computing the transformations.
 
 3. **Soft Margin Classification**:
-   SVM can handle noisy or overlapping data by allowing some instances to be misclassified. This is achieved through soft margin classification, where a penalty parameter (C) controls the trade-off between maximizing the margin and minimizing the classification error.
+   SVM can handle noisy or overlapping data by allowing some instances to be misclassified. This is achieved through soft margin classification, where a penalty parameter %\(C\)$ controls the trade-off between maximizing the margin and minimizing the classification error.
 
 #### Applications of Support Vector Machines:
 
