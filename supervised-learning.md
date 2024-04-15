@@ -1,4 +1,4 @@
-### 1.1.1 Supervised Learning
+# What is *Supervised Learning*?
 
 Supervised learning involves training a model on labeled data, where the input data is paired with corresponding target labels. The model learns to map input features to the correct output based on this labeled data.
 
