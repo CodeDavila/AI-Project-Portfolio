@@ -17,7 +17,7 @@
    $\ h_\theta(x) = g(\theta^Tx) \$
 
    Where:
-   - $\( h_\theta(x) \)$ is the predicted probability that the instance \( x \) belongs to the positive class.
+   - $\( h_\theta(x) \)$ is the predicted probability that the instance $\( x \)$ belongs to the positive class.
    - $\( \theta \)$ is the vector of model parameters (weights).
    - $\( x \)$ is the vector of input features.
    - $\( g \)$ is the sigmoid function.
