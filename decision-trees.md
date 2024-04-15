@@ -1,4 +1,4 @@
-### Decision Trees
+# Decision Trees
 
 **Decision Trees** are versatile supervised learning algorithms used for both classification and regression tasks. Decision trees recursively partition the feature space into subsets, making decisions at each node based on the value of a feature.
 
