@@ -9,11 +9,11 @@ The equation for a simple linear regression with one independent variable is:
 $\ y = mx + b \$
 
 Where:
-- \( y \) is the dependent variable (target)
-- \( x \) is the independent variable (feature)
-- \( m \) is the slope of the line
-- \( b \) is the y-intercept
+- $\( y \)$ is the dependent variable (target)
+- $\( x \)$ is the independent variable (feature)
+- $\( m \)$ is the slope of the line
+- $\( b \)$ is the y-intercept
 
-The coefficients \( m \) and \( b \) are estimated from the training data, and once the model is trained, it can be used to make predictions on new data.
+The coefficients $\( m \)$ and $\( b \)$ are estimated from the training data, and once the model is trained, it can be used to make predictions on new data.
 
 Linear regression is widely used in various fields, including economics, finance, healthcare, and social sciences. It's often used for tasks such as predicting sales revenue, housing prices, stock prices, and more. Despite its simplicity, linear regression can provide valuable insights and serve as a baseline model for more complex algorithms.
