@@ -1,4 +1,4 @@
-### Dimensionality Reduction
+# Dimensionality Reduction
 
 **Dimensionality Reduction** is the process of reducing the number of features in a dataset while preserving as much of the relevant information as possible. High-dimensional data can be difficult to visualize and analyze, and dimensionality reduction techniques help overcome this challenge by transforming the data into a lower-dimensional space.
 
