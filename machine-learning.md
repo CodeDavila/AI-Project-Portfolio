@@ -10,8 +10,10 @@ There are several types of **machine learning** approaches, including:
 
 2. **Unsupervised Learning**: **Unsupervised learning** involves training algorithms on unlabeled data, where the algorithm must find patterns or structure in the data on its own. This can include tasks such as clustering similar data points together or dimensionality reduction.
 
-3. **Semi-Supervised Learning**: **Semi-supervised learning** combines elements of supervised and unsupervised learning. It involves training algorithms on a combination of labeled and unlabeled data, which can be useful when labeled data is scarce or expensive to obtain.
+3. **Reinforcement Learning**: **Reinforcement learning** is a type of machine learning where an agent learns to interact with an environment in order to maximize some notion of cumulative reward. The agent learns through trial and error, receiving feedback in the form of rewards or penalties based on its actions.
 
-4. **Reinforcement Learning**: **Reinforcement learning** is a type of machine learning where an agent learns to interact with an environment in order to maximize some notion of cumulative reward. The agent learns through trial and error, receiving feedback in the form of rewards or penalties based on its actions.
+4. **Semi-Supervised Learning**: **Semi-supervised learning** combines elements of supervised and unsupervised learning. It involves training algorithms on a combination of labeled and unlabeled data, which can be useful when labeled data is scarce or expensive to obtain.
+
+5. **Transfer Learning**: **Transfer learning** is a machine learning technique where a model trained on one task is reused or adapted as the starting point for a model on a second task. It leverages knowledge gained from solving one problem and applies it to a related problem, often leading to improvements in learning efficiency and performance.
 
 **Machine learning** has a wide range of applications across various industries, including healthcare, finance, marketing, robotics, and more. It is used for tasks such as image and speech recognition, natural language processing, recommendation systems, autonomous vehicles, and predictive analytics, among others.
