@@ -6,7 +6,7 @@ In linear regression, the goal is to find the best-fitting line that minimizes t
 
 The equation for a simple linear regression with one independent variable is:
 
-\[ y = mx + b \]
+$\[ y = mx + b \]$
 
 Where:
 - \( y \) is the dependent variable (target)
