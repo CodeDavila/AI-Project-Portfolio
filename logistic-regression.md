@@ -7,7 +7,7 @@
 1. **Sigmoid Function**:
    Logistic regression models the probability that an instance belongs to a particular class using the logistic function (also known as the sigmoid function), which is defined as:
 
-   \[ g(z) = \frac{1}{1 + e^{-z}} \]
+   $\ g(z) = \frac{1}{1 + e^{-z}} \$
 
    Where \( z \) is a linear combination of the input features and model parameters.
 
