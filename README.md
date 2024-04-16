@@ -30,6 +30,7 @@
          - [Representation Layer Learning](representation-layer.md)
          - [Knowledge Distillation](knowledge-distillation.md)
          - [Pre-trained Neural Networks](pre-trained-nn.md)
+<!---
    - 1.2 [Natural Language Processing (NLP)](nlp.md)
       - 1.2.1 [Language Modeling](language-modeling.md)
          - [Bag of Words Models](bag-of-words.md)
